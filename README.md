@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Thiện Anh (aka thienanh.dev)
+
+🎓 Incoming freshman, majoring in Cybersecurity (An ninh mạng)  
+🌱 Currently building my skills in CS, Linux, networking, and English  
+🎯 Goal: Work at a Big Tech company or top-tier server team  
+💭 Dream big, start small, learn every day
+
+## 📫 Contact Me
+- Gmail: [nthienanh.work@gmail.com](mailto:nthienanh.work@gmail.com)
+- GitHub: [NThienAnh](https://github.com/NThienAnh)
+- Discord: `thienanh.dev`
 
 <!--
-**NThienAnh/nthienanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+More sections coming soon:
+- 🛠️ Projects
+- 📚 Learning Journey
+- 📈 Stats & Contributions
 -->
